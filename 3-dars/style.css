@@ -1,0 +1,50 @@
+ *{
+    margin: 0;
+    padding: 0;
+   
+   
+}
+body{
+    width: auto;
+    background-image: url('https://cdn.hipwallpaper.com/i/8/22/Bnkvui.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.havolalar h1{
+    font-size: 40px;
+    text-transform: capitalize;
+}
+    .havolalar p{
+        text-transform: capitalize;
+    }
+    .havolalar a{
+        transition: all ;
+        color: RED;
+        font-size: 30px;
+    text-decoration: none;
+    }
+    .havolalar a:hover {
+
+    font-size: 40px;
+    color: darkgreen;
+    }
+    .havolalar {
+        height: 110px;
+    }
+
+    img{
+        width: 100vw;
+        height: 100vw;
+        object-fit:  cover;
+    }
+    div{
+        /* width: auto; */
+        /* background-image: url('https://cdn.hipwallpaper.com/i/8/22/Bnkvui.jpg'); */
+        /* background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+    } 
+   
